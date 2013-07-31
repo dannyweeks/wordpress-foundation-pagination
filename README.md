@@ -9,7 +9,7 @@ The current pagination included doesn't fully use the styles outlined in the fra
 ## How To Use
 
  - Add the function to your Foundation's functions.php file.
- - Replace line 30 ( ```PHP <?php foundation_pagination(); ?> ```) in the themes index.php file with ```PHP <?php new_centered_pagination(); ?> ```
+ - Replace line 30 ( ``` <?php foundation_pagination(); ?> ```) in the themes index.php file with ``` <?php new_centered_pagination(); ?> ```
 
 ## Authors
 
